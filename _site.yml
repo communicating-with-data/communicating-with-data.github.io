@@ -1,0 +1,12 @@
+name: "book_companion"
+title: "Communicating with Data: The Art of Writing for Data Science"
+description: |
+  Communicating with Data: The Art of Writing for Data Science
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Materials"
+      href: materials.html
+output: distill::distill_article
