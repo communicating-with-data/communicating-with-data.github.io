@@ -5,14 +5,14 @@
       "title": "Communicating with Data: The Art of Writing for Data Science",
       "author": [],
       "contents": "\n\n\n\nDeborah Nolan is Professor Emerita and Professor of the Graduate School at the University of California, Berkeley. Her research has involved the empirical process, high-dimensional modeling, and, more recently, technology in education and reproducible research. Sara Stoudt is an applied statistician whose work primarily focuses on environmental and ecological applications. She is currently an assistant professor at Bucknell University. She received her PhD in Statistics from UC Berkeley. Prior to that she received a B.A. in Mathematics (with an emphasis on statistics) from Smith College.\nLink to the book\nNolan Website\nStoudt Website\n\n\n\n",
-      "last_modified": "2025-06-20T11:53:37-04:00"
+      "last_modified": "2025-06-20T12:00:44-04:00"
     },
     {
       "path": "materials.html",
       "title": "Materials",
       "author": [],
       "contents": "\nHave you used our book? We want to hear from you!\nPlease e-mail Sara Stoudt (sas072@bucknell.edu)\nTeaching Materials\nOriginal Class (that inspired the book)\nTaught by Deborah Nolan and Sara Stoudt at UC Berkeley\nSyllabus\nFirst Year Seminar: Storytelling with Data\nTaught by Sara Stoudt at Bucknell University\nDay-to-day overview Fall ’25: coming soon\nDay-to-day overview Fall ’24\nDay-to-day overview Fall ’22\nMore on Reading to Write\nNolan, Deborah, and Sara Stoudt. “Reading to write.” Significance 17.6 (2020).\nMore on Storyboarding\npaper coming soon\nNolan, Deborah, and Sara Stoudt. “Storyboarding as Part of the Process of Statistical Investigation” USCOTS (2021)\nMore on Presentations\nStoudt, Sara. “Can TV make you a better stats communicator?.” Significance (2023).\nMore on Revision\nNolan, Deborah, and Sara Stoudt. “Revision Beyond the Copyedit: Encouraing Students to Reorganize, Restructure, and Refocus in Writing Assignments” ICOTS 11 (2022)\nMore on Captions\nNolan, Deborah, and Sara Stoudt. “Captions: The Unsung Heroes of Data Communication” IASE (2021)\nMore on Portfolios\nNolan, Deborah, and Sara Stoudt. “The promise of portfolios: Training modern data scientists.” Harvard Data Science Review 3.3 (2021).\nErrata - p.206 Chapter 8\nA rapid test for HIV was developed for its sensitivity: the new test was shown to have sensitivity of 83%, compared to 60% for a commonly used test. This increased detection rate matters because those with false negative results (HIV-positive individuals whose disease goes undetected by a test) are likely not to return for further testing. The specificity of the rapid test is 97%. For example in a population of 692,000 with 12,000 HIV-positive, we expect \\((0.83*12,000 =) 9,960\\) HIV-positive people to test positive and \\(((1-0.97)*(692,000 - 12,000) =) 20,400\\) HIV-negative people to test positive. That is, the test has a precision of only \\((9,960/(20,400+9,960) =) 32.8\\%\\). However the rapid test can be immediately administered a second time for anyone with a positive result. With this two-step approach the precision increases to \\(((12,000/69,2000*0.83^2)/((12,000/69,2000*0.83^2) + (680,000/692,000*0.03^2)) =) 93.1\\%\\).\n\n\n\n",
-      "last_modified": "2025-06-20T11:53:38-04:00"
+      "last_modified": "2025-06-20T12:00:44-04:00"
     }
   ],
   "collections": []
