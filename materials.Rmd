@@ -34,7 +34,7 @@ Taught by Sara Stoudt at Bucknell University
 
 ## More on Storyboarding
 
-[Stoudt, Sara and Deborah Nolan "The Storyboard: A Tool to Synthesize, Reflect On, and Write About Data Investigations"](https://doi.org/10.1080/00031305.2025.2539997)
+[Stoudt, Sara and Deborah Nolan. "The Storyboard: A Tool to Synthesize, Reflect On, and Write About Data Investigations." The American Statistician (2025)](https://doi.org/10.1080/00031305.2025.2539997)
 
 [Nolan, Deborah, and Sara Stoudt. "Storyboarding as Part of the Process of Statistical Investigation" USCOTS (2021)](https://www.causeweb.org/cause/uscots/uscots21/th-21-storyboarding-part-process-statistical-investigation)
 
